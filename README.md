@@ -1,4 +1,4 @@
 # Programming-Merit-Badge
 
 This repository contains sample code for requirements 5a, 5b, and 5c of the Programming Merit Badge.
-The main folder has the Android App code for 5c. The C++ folder has the code for 5a. The python script is for 5b.
+The main folder contains kotlin code for an Android App. The ProgrammingMB C++ folder contains C++ code for a simple currency converter program. The PythonScriptForGarageDoor.py file contains Python code for a Raspberry Pi garage door controller.
